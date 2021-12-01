@@ -1,0 +1,99 @@
+[[xdm]]
+arch = "aarch64"
+git-tree-sha1 = "a7be5e83789affc1deefe85ee70c2e5935ab63e9"
+libc = "glibc"
+os = "linux"
+
+    [[xdm.download]]
+    sha256 = "d0a5f0c83ad9744b26817e0a2a55f54c1f613863a477bd44cf81cc1bbd04e1df"
+    url = "https://github.com/JuliaBinaryWrappers/xdm_jll.jl/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.aarch64-linux-gnu.tar.gz"
+[[xdm]]
+arch = "aarch64"
+git-tree-sha1 = "54f13d64d56acf7bc47ea62c5f5404a04a358965"
+libc = "musl"
+os = "linux"
+
+    [[xdm.download]]
+    sha256 = "25c0a98a0dad485c9fbca569a72639a780dfa9f3d3d88e3d341f610fcce34884"
+    url = "https://github.com/JuliaBinaryWrappers/xdm_jll.jl/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.aarch64-linux-musl.tar.gz"
+[[xdm]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "18ef8fbc7bc2be47b92079465c36c393a03921b7"
+libc = "glibc"
+os = "linux"
+
+    [[xdm.download]]
+    sha256 = "8e91c79c1770820c1b76552c5cf13a6d89436e5beb458ceb981dca0f2912f975"
+    url = "https://github.com/JuliaBinaryWrappers/xdm_jll.jl/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.armv7l-linux-gnueabihf.tar.gz"
+[[xdm]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "37e133806215b87fe4c3967ec1e1fa212b3389ed"
+libc = "musl"
+os = "linux"
+
+    [[xdm.download]]
+    sha256 = "3c316446d1dc44066b7af362e31eb411db4f40e54fdb1783b3a9f6acc0051a35"
+    url = "https://github.com/JuliaBinaryWrappers/xdm_jll.jl/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.armv7l-linux-musleabihf.tar.gz"
+[[xdm]]
+arch = "i686"
+git-tree-sha1 = "b82829a70fb517edecae43b9fca538f98d3aa391"
+libc = "glibc"
+os = "linux"
+
+    [[xdm.download]]
+    sha256 = "fe2bd9c5909b29f1e26fe5d29c02bd6fcfceab172cecda6a0fb41c7d9ed0471a"
+    url = "https://github.com/JuliaBinaryWrappers/xdm_jll.jl/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.i686-linux-gnu.tar.gz"
+[[xdm]]
+arch = "i686"
+git-tree-sha1 = "d93417bdb288260b213f138d27197f410ec77cf2"
+libc = "musl"
+os = "linux"
+
+    [[xdm.download]]
+    sha256 = "25f9a5448da1f3a25ad2f5e95b064a6d86e83285008d1fe4b3e282b7632c9155"
+    url = "https://github.com/JuliaBinaryWrappers/xdm_jll.jl/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.i686-linux-musl.tar.gz"
+[[xdm]]
+arch = "powerpc64le"
+git-tree-sha1 = "fece0a0de73ad0c91d65daebd6c26422046260e0"
+libc = "glibc"
+os = "linux"
+
+    [[xdm.download]]
+    sha256 = "96d1af3a43d515982f5ebf7a3b4f250a9d1defc25a5947150d38603806f17c4c"
+    url = "https://github.com/JuliaBinaryWrappers/xdm_jll.jl/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.powerpc64le-linux-gnu.tar.gz"
+[[xdm]]
+arch = "x86_64"
+git-tree-sha1 = "1b6c23f37d6b7db9cf890c92a8d8a9439bfa9e29"
+os = "macos"
+
+    [[xdm.download]]
+    sha256 = "c07c95c7055eec73c43fc3bd5f5b19ed51a193d2813736e46bb22f36851b34c7"
+    url = "https://github.com/JuliaBinaryWrappers/xdm_jll.jl/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.x86_64-apple-darwin.tar.gz"
+[[xdm]]
+arch = "x86_64"
+git-tree-sha1 = "af1374a0c24b3b93ce386d9827fcb5d66cfbe09e"
+libc = "glibc"
+os = "linux"
+
+    [[xdm.download]]
+    sha256 = "8d4fffc8d60b7ae39b574d5e9515134848e729e34e086f3090891e2e23a5c607"
+    url = "https://github.com/JuliaBinaryWrappers/xdm_jll.jl/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.x86_64-linux-gnu.tar.gz"
+[[xdm]]
+arch = "x86_64"
+git-tree-sha1 = "38e04254fd19dbf183918d11e0a10dbbc55ddcf6"
+libc = "musl"
+os = "linux"
+
+    [[xdm.download]]
+    sha256 = "b7006128d99447db6548700451afe7817ba280a2bd1c558138a718c8a6cb8284"
+    url = "https://github.com/JuliaBinaryWrappers/xdm_jll.jl/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.x86_64-linux-musl.tar.gz"
+[[xdm]]
+arch = "x86_64"
+git-tree-sha1 = "111915c4a1ccd1706a57dda0e7fb294c1ffa1d9e"
+os = "freebsd"
+
+    [[xdm.download]]
+    sha256 = "4f35a201c38b294c0e44ae813ef316fe31f85a09e53111a7d61c7a33f66e979e"
+    url = "https://github.com/JuliaBinaryWrappers/xdm_jll.jl/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.x86_64-unknown-freebsd.tar.gz"
